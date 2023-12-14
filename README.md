@@ -20,3 +20,5 @@ https://dialogflow.cloud.google.com/cx/projects/test4u-tegd/locations/europe-wes
 https://console.cloud.google.com/welcome?_ga=2.231029343.-1352466605.1702477947&hl=pl&project=beaming-grid-405011&cloudshell=true
 
 
+
+https://app.code2flow.com/flowcharts/6579bf17c8368d65bb668437
